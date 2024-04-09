@@ -66,3 +66,4 @@ duration: 3 hours
 ## What’s next in Big Data? Data mesh
 
 [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+[Comparison of database architectures]https://www.adaltas.com/en/2022/05/17/data-warehouse-lake-lakehouse-comparison/
