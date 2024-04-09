@@ -20,7 +20,7 @@ The project has to focus on **Open Source distributed systems**. It can either b
 
 ## Due date
 
-The project has to be finished for December 31st, 2021.
+The project has to be finished for 26 Avril.
 
 ## Project examples
 
